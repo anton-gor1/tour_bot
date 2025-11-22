@@ -1,0 +1,4 @@
+.env
+__pycache__
+pyvenv.cfg
+bot_database.db
